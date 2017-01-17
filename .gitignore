@@ -1,0 +1,5 @@
+.idea/
+GenSpam/
+save/
+word_embedding.cpi
+**.pyc
